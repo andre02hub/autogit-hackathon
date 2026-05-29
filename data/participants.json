@@ -1295,8 +1295,8 @@
     "app_type": "discord-mod-bot",
     "pr_number": 151,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/151",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x7ad081ac1df28f89fe2275472d06bd2c90ffad76f099b739e658d9d73e4abe7a",
+    "vault_address": "0xA38c1dBf75A956F175734dD939966089166d7909",
+    "paid_at": "2026-05-29T18:21:11.296Z"
   }
 ]
